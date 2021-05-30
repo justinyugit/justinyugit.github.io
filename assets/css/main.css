@@ -205,10 +205,11 @@ img {
   font-weight: bold;
 }
 
-.section-wrapper:nth-child(odd) {
+.section-wrapper:nth-child(1) {
   background: url(../images/background.png);
-  background-repeat: repeat;
+  
 }
+
 
 .section-wrapper:nth-child(odd) .section-heading {
   color: #fff;
